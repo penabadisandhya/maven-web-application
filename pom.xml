@@ -145,7 +145,7 @@
 					<wtpversion>2.0</wtpversion>
 					<wtpContextName>maven-web-application</wtpContextName>
 				</configuration>
-			</plugin>
+			 </plugin>
 			
 </plugins>
 	</build>
